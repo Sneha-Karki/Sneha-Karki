@@ -6,8 +6,15 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I recently started doing fencing!
 
+## GitHub Stats
+
+![Sneha-Karki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha-Karki&show_icons=true&theme=baby-pink)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Karki&layout=compact&theme=baby-pink)
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sneha-karki-631661329/)
+Email: sneha.karki@my.utsa.edu
 
 
 <!--
