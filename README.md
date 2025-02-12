@@ -1,4 +1,6 @@
-## Hi there 👋
+## My name is Sneha Karki, a CS junior at The University of Texas at San Antonio! 👋
+
+![](https://komarev.com/ghpvc/?username=your_username&color= #F4C2C2)
 
 <!--
 **Sneha-Karki/Sneha-Karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
