@@ -1,4 +1,8 @@
-## My name is Sneha Karki, a CS junior at The University of Texas at San Antonio! 👋
+## My name is Sneha Karki, a junior at The University of Texas at San Antonio! 👋
+
+Major: Computer Science
+Concentration: Software Engineering and Data Science
+
 
 - 🔭 I’m currently working as a Math Tutor at UTSA.
 - 💻 I'm looking for Summer 2025 internships to apply the theoretical knowledge I have learned. 
