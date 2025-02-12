@@ -1,6 +1,7 @@
 ## My name is Sneha Karki, a junior at The University of Texas at San Antonio! 👋
 
 Major: Computer Science
+
 Concentration: Software Engineering and Data Science
 
 
