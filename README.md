@@ -1,4 +1,4 @@
-## My name is Sneha Karki, a junior at The University of Texas at San Antonio! 👋
+## My name is Sneha Karki, a senior at The University of Texas at San Antonio! 👋
 
 Major: Computer Science
 
@@ -6,7 +6,7 @@ Concentration: Software Engineering and Data Science
 
 
 - 🔭 I’m currently working as a Math Tutor at UTSA.
-- 💻 I'm looking for Summer 2025 internships to apply the theoretical knowledge I have learned. 
+- 💻 I'm looking for Summer 2026 internships to apply the theoretical knowledge I have learned. 
 - 🌱 I’m currently learning SQL, Database systems, Android application development with Java, LINUX platform programming, and Assembly language. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I recently started doing fencing!
