@@ -1,60 +1,69 @@
-# hi, i'm sneha karki (｡•̀ᴗ-)✧
+<div align="center">
 
-computer science @ UTSA (may 2026)  
-incoming m.s. @ texas a&m (fall 2026)  
+# Hi, I'm Sneha Karki ₊˚⊹♡
 
----
+**Computer Science @ UT San Antonio**  
+**Incoming M.S. in Computer Science @ Texas A&M University**
 
-## about me (˶ᵔ ᵕ ᵔ˶)
-originally from nepal, i enjoy building systems end-to-end — from processing large-scale datasets to developing APIs and interactive applications.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-snehakarki.com-ff8fb1?style=for-the-badge)](https://snehakarki.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Karki-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-karki-631661329/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-f6a5c0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneha.karki@my.utsa.edu)
 
-i’m especially interested in data engineering, software engineering, and building systems that actually get used in the real world.
-
----
-
-## what i'm building (ง •̀_•́)ง
-- data pipelines + dashboards for real-world datasets  
-- full-stack apps using fastapi  
-- interactive games with unity  
+</div>
 
 ---
 
-## tech stack (⌐■_■)
-languages: python, java, c++, sql, javascript  
-tools: fastapi, streamlit, pandas, numpy, flask, git  
-focus: data pipelines, backend systems, full-stack dev  
+## About Me (˶ᵔ ᵕ ᵔ˶)
+
+Originally from Nepal, I bring a strong problem-solving mindset shaped by real-world challenges.  
+I enjoy uncovering the stories hidden in data and building systems end-to-end — from large-scale data processing to APIs and interactive applications.
 
 ---
 
-## featured projects (づ｡◕‿‿◕｡)づ
+## What I’m Working On (ง •̀_•́)ง
 
-### big $hot — full-stack finance app  
-- built a collaborative finance platform with budgeting + csv ingestion  
-- designed backend APIs with fastapi and real-time data handling  
-
-### food access data pipeline (sacrd)  
-- processed 4M+ records to identify food access gaps across 90+ ZIP codes  
-- built pipelines + dashboards used for real-world decision making  
-
-### himal — 3D exploration game  
-- developed a unity-based game with interactive systems and progression  
-- implemented player movement, UI, and game logic in C#  
+- Building data pipelines and dashboards for real-world datasets  
+- Developing backend and full-stack applications with FastAPI  
+- Creating interactive projects and games with Unity  
 
 ---
 
-## github stats (╯°□°）╯︵ ┻━┻
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha-Karki&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Karki&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+## Tech Stack (⌐■_■)
+
+**Languages**  
+`Python` `Java` `C++` `SQL` `JavaScript` `C#`
+
+**Tools & Frameworks**  
+`FastAPI` `Streamlit` `Pandas` `NumPy` `Flask` `Git` `Unity` `Supabase`
+
+**Interests**  
+`Data Engineering` `Software Engineering` `APIs` `Backend Systems` `Game Development`
 
 ---
 
-## connect with me (づ￣ ³￣)づ
-<p align="left">
-  <a href="https://www.linkedin.com/in/sneha-karki-631661329/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## Featured Projects ⋆౨ৎ˚⟡˖ ࣪
 
-email: sneha.karki@my.utsa.edu
+### BIG $HOT — Full-Stack Finance Application
+Built a collaborative finance platform with budgeting, CSV ingestion, and backend APIs using FastAPI and Supabase
+
+### Food Access Data Pipeline (SACRD)
+Processed 4M+ records and built dashboards to identify food access gaps across 90+ ZIP codes
+
+### HIMAL — 3D Exploration Game
+Developed a Unity-based exploration game with player controls, UI systems, and progression mechanics
+
+---
+
+## Quick Facts ✿
+
+- Originally from Nepal  
+- Interested in Data Engineering and backend-focused software roles  
+- I like building both practical systems and creative projects like games  
+
+---
+
+## Find Me Online (づ￣ ³￣)づ
+
+🌐 Portfolio: [snehakarki.com](https://snehakarki.com/)  
+💼 LinkedIn: [Sneha Karki](https://www.linkedin.com/in/sneha-karki-631661329/)  
+📫 Email: `sneha.karki@my.utsa.edu`
