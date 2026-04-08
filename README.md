@@ -1,53 +1,60 @@
-# Hi, I'm Sneha Karki 👋  
+# hi, i'm sneha karki (｡•̀ᴗ-)✧
 
-🎓 Computer Science @ UT San Antonio (Graduating May 2026)  
-🎯 Incoming M.S. in Computer Science @ Texas A&M University (Fall 2026)  
-
----
-
-## 💡 About Me
-Originally from Nepal, I enjoy building systems end-to-end—from processing large-scale datasets to developing APIs and interactive applications.  
-
-I’m especially interested in **Data Engineering, Software Engineering, and building real-world, impactful systems**.
+computer science @ UTSA (may 2026)  
+incoming m.s. @ texas a&m (fall 2026)  
 
 ---
 
-## 🚀 What I'm Working On
-- 📊 Building data pipelines and dashboards for real-world datasets  
-- 💻 Developing full-stack applications using FastAPI and modern tools  
-- 🎮 Creating interactive games with Unity  
+## about me (˶ᵔ ᵕ ᵔ˶)
+originally from nepal, i enjoy building systems end-to-end — from processing large-scale datasets to developing APIs and interactive applications.  
+
+i’m especially interested in data engineering, software engineering, and building systems that actually get used in the real world.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, C++, SQL, JavaScript  
-**Frameworks/Tools:** FastAPI, Streamlit, Pandas, NumPy, Flask, Git  
-**Other:** Data Pipelines, APIs, Full-Stack Development, Machine Learning  
+## what i'm building (ง •̀_•́)ง
+- data pipelines + dashboards for real-world datasets  
+- full-stack apps using fastapi  
+- interactive games with unity  
 
 ---
 
-## 🌟 Featured Projects
-
-### 💰 BIG $HOT – Full-Stack Finance App  
-- Built a collaborative finance platform with budgeting and CSV ingestion  
-- Designed REST APIs using FastAPI and integrated real-time backend services  
-
-### 📊 Food Access Data Pipeline (SACRD)  
-- Processed 4M+ records to identify food access gaps across 90+ ZIP codes  
-- Built data pipelines and dashboards used by stakeholders for decision-making  
-
-### 🎮 HIMAL – 3D Exploration Game  
-- Developed a Unity-based game with interactive environments and progression systems  
-- Implemented player controls, UI systems, and game logic in C#  
+## tech stack (⌐■_■)
+languages: python, java, c++, sql, javascript  
+tools: fastapi, streamlit, pandas, numpy, flask, git  
+focus: data pipelines, backend systems, full-stack dev  
 
 ---
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Karki&layout=compact&theme=tokyonight)
+## featured projects (づ｡◕‿‿◕｡)づ
+
+### big $hot — full-stack finance app  
+- built a collaborative finance platform with budgeting + csv ingestion  
+- designed backend APIs with fastapi and real-time data handling  
+
+### food access data pipeline (sacrd)  
+- processed 4M+ records to identify food access gaps across 90+ ZIP codes  
+- built pipelines + dashboards used for real-world decision making  
+
+### himal — 3D exploration game  
+- developed a unity-based game with interactive systems and progression  
+- implemented player movement, UI, and game logic in C#  
 
 ---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sneha-karki-631661329/)
+## github stats (╯°□°）╯︵ ┻━┻
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneha-Karki&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Karki&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-📧 sneha.karki@my.utsa.edu
+---
+
+## connect with me (づ￣ ³￣)づ
+<p align="left">
+  <a href="https://www.linkedin.com/in/sneha-karki-631661329/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+email: sneha.karki@my.utsa.edu
