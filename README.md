@@ -2,8 +2,7 @@
 
 # Hi, I'm Sneha Karki ₊˚⊹♡
 
-**Computer Science @ UT San Antonio**  
-**Incoming M.S. in Computer Science @ Texas A&M University**
+**B.S Computer Science @ UT San Antonio**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-snehakarki.com-ff8fb1?style=for-the-badge)](https://snehakarki.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Karki-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-karki-631661329/)
